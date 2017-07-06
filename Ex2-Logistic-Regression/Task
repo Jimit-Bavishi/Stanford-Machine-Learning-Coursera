@@ -1,0 +1,6 @@
+In this exercise, I implemented logistic regression for two cases to fit a classification model with minimum cost using 
+advanced optimization algorithms (fminunc).
+Additionally, the data and logistic regression fit are plotted for visualization purposes. 
+In the first part, we want to estimate the probability of an applicant's admission using two exam scores.
+In the second part, we want to predict whether microchips from a fabrication plant passes quality assurance using regularized 
+logistic regression on a dataset of two different test results.

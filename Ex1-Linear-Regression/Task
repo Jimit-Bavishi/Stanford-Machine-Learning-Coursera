@@ -1,0 +1,5 @@
+In this exercise, I implemented linear regression for two cases to fit a model with minimum cost. 
+The learning algorithms used were Gradient Descent and normal equation. 
+Additionally, the data and linear regression fit are plotted for visualization purposes. 
+In the first part, we want to predict profits for a food truck using a single variable (population of different cities).
+In the second part, we want to predict prices of houses using multiple variables (size of the house and number of bedrooms).
